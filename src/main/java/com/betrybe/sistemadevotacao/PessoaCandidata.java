@@ -1,7 +1,7 @@
 package com.betrybe.sistemadevotacao;
 
 /**
- * A classe PessoaEleitora representa uma pessoa eleitora no sistema de votação.
+ * A classe PessoaCandidata representa uma pessoa candidata no sistema de votação.
  */
 
 public class PessoaCandidata extends Pessoa {
@@ -29,7 +29,7 @@ public class PessoaCandidata extends Pessoa {
   }
 
   /**
-   * A PessoaEleitora e seus votos.
+   * A PessoaCandidata e seus votos.
    */
   // construtor
   public PessoaCandidata(String nome, int numero) {
