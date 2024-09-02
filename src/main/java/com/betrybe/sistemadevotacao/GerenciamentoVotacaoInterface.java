@@ -3,6 +3,7 @@ package com.betrybe.sistemadevotacao;
 /**
  * Interface para o gerenciamento de votação.
  */
+
 public interface GerenciamentoVotacaoInterface {
 
   void cadastrarPessoaCandidata(String nome, int numero);
